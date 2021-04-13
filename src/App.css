@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.paginationBttns{
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.paginationBttns a {
+  padding: 10 px;
+  margin: 8px;
+  border-radius: 5 px;
+  border :1 px solid blue;
+  color: blue;
+  cursor: pointer;
+}
+.paginationBttns a:hover{
+  color: white;
+  background-color: blue;
+}
