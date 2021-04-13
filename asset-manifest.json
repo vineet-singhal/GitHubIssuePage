@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GitHubIssuePage/static/css/main.7cbd04d6.chunk.css",
+    "main.js": "/GitHubIssuePage/static/js/main.603681b4.chunk.js",
+    "main.js.map": "/GitHubIssuePage/static/js/main.603681b4.chunk.js.map",
+    "runtime-main.js": "/GitHubIssuePage/static/js/runtime-main.311b5666.js",
+    "runtime-main.js.map": "/GitHubIssuePage/static/js/runtime-main.311b5666.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/GitHubIssuePage/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.0934fee8.chunk.js": "/GitHubIssuePage/static/js/2.0934fee8.chunk.js",
+    "static/js/2.0934fee8.chunk.js.map": "/GitHubIssuePage/static/js/2.0934fee8.chunk.js.map",
+    "static/js/3.1b69a39d.chunk.js": "/GitHubIssuePage/static/js/3.1b69a39d.chunk.js",
+    "static/js/3.1b69a39d.chunk.js.map": "/GitHubIssuePage/static/js/3.1b69a39d.chunk.js.map",
+    "index.html": "/GitHubIssuePage/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/GitHubIssuePage/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.7cbd04d6.chunk.css.map": "/GitHubIssuePage/static/css/main.7cbd04d6.chunk.css.map",
+    "static/js/2.0934fee8.chunk.js.LICENSE.txt": "/GitHubIssuePage/static/js/2.0934fee8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311b5666.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.0934fee8.chunk.js",
+    "static/css/main.7cbd04d6.chunk.css",
+    "static/js/main.603681b4.chunk.js"
+  ]
+}
